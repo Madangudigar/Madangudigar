@@ -18,7 +18,7 @@ Pink is delivered his records in some given order, he can either add the record 
  
 Print whether Pink will be sad or happy after the delivery of the records. 
  
-6. Remove Friends    After getting her PhD, Christie has become a celebrity at her university, and her Facebook profile is full of friend requests. Being the nice girl, she is, Christie has accepted all the requests. 
+5. Remove Friends    After getting her PhD, Christie has become a celebrity at her university, and her Facebook profile is full of friend requests. Being the nice girl, she is, Christie has accepted all the requests. 
  
 Now Kuldeep is jealous of all the attention she is getting from other guys, so he asks her to delete some of the guys from her friend list. 
  
