@@ -32,5 +32,7 @@ In next line, there will be N space separated integers, A[i], where 1 ≤ I ≤ 
 the elements of array.
 Output Format
 Print the height of the created Binary Search Tree.
+
+program 6: Implement Brenham’s line drawing algorithm for all types of slope. 
  
 
